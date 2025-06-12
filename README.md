@@ -24,6 +24,12 @@
 - `firebase/` – Firebase setup and service integration
 - `models/` – Python AI models for ranking and prioritization
 
-## 📜 License
+## 📜 License & Usage
 
-This project is for educational purposes only.
+This project is **not open source**.
+
+You may view or download the code for **testing and educational purposes only**.  
+Please do **not reuse or republish** any part of this code without permission.
+
+🔒 All rights reserved by Sajana Liyanage.
+
