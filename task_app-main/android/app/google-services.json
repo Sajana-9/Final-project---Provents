@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "547028898766",
+    "firebase_url": "https://task-app-85e6d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "task-app-85e6d",
+    "storage_bucket": "task-app-85e6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547028898766:android:7a320fb79d11758d98519f",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SRD62xaa3SlGfntqa7WWukITAKPICic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
