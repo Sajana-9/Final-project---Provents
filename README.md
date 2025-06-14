@@ -31,5 +31,5 @@ This project is **not open source**.
 You may view or download the code for **testing and educational purposes only**.  
 Please do **not reuse or republish** any part of this code without permission.
 
-🔒 All rights reserved by Sajana Liyanage.
+🔒 All rights reserved by Sajana Sandaru.
 
